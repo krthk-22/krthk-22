@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krthk-22
+- 👋 Hi, I’m @[krthk-22](github.com/krthk-22)
 - 💞 I’m in love with Mathematics and Machine Learning.
 - 📚 I'm currently in my $3^{rd}$ year of Computer Science and Engineering at IIT Madras.
 - 📫 You can reach out to me on karthikeya2283@gmail.com
