@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @[krthk-22]()
-- 💞 I’m in love with Mathematics and Machine Learning.
-- 📚 I'm currently in my $3^{rd}$ year of Computer Science and Engineering at IIT Madras.
+- 💞 I’m in love with Discrete Mathematics, ML and RL.
+- 📚 I'm currently in my $4^{th}$ year of Computer Science and Engineering at IIT Madras.
 - 📫 You can reach out to me on karthikeya2283@gmail.com
 - 😄 Pronouns: He/Him
 
